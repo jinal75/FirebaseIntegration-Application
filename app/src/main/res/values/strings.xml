@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseIntegrationApplication</string>
+    <string name="notification_channel_id">channelid</string>
+    <string name="msg_token_fmt">tok</string>
+</resources>
